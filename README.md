@@ -16,6 +16,7 @@
 
 ## Блок-схема алгаритма
 
+[![imageup.ru](https://imageup.ru/img246/4577617/diagramma-bez-nazvaniia-1.jpg)](https://imageup.ru/img246/4577617/diagramma-bez-nazvaniia-1.jpg.html)
 
 ## Описание программы
 
